@@ -1,5 +1,13 @@
 # Investigate-A-Dataset
 
+Table of Contents
+
+Introduction
+Data Wrangling
+Exploratory Data Analysis
+Conclusions
+
+
 INTRODUCTION:
 
 I choose TMDb Movie Data Set to for Data Analysis. 
