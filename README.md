@@ -2,10 +2,13 @@
 
 Table of Contents
 
-Introduction
-Data Wrangling
-Exploratory Data Analysis
-Conclusions
+* Introduction
+
+* Data Wrangling
+
+* Exploratory Data Analysis
+
+* Conclusions
 
 
 INTRODUCTION:
