@@ -45,3 +45,13 @@ QUESTIONS:
 
 7. 7.a. Is there a relationship between movie popularity v/s vote_count? 
    7.b. Is there a relationship between movie profit v/s revenue?
+
+
+DATA WRANGLING:
+
+Here we are going to import CSV file and will perform following operations:
+
+a. Checking head and tail of the data.
+b. Checking size, number of rows, columns.
+c. Checking null values, description and info.
+
