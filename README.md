@@ -85,3 +85,34 @@ STEPS:
       
       e. Changing the 'release_date' format to datetime format.
 
+
+CONCLUSION:
+
+Limitations:
+
+The above observations may not be accurate. As I am not using statistical methods and machine learning, further analysis is required for accurate information.
+
+Some rows are deleted from data set, due to NAh or missing values. This may effect the analysis.
+
+Some columns also deleted from data set, thought not relevent for my analysis. This may effect the analysis too.
+
+In this project, I have analysied general trends in movies.
+
+And these observations are tentative, not verified by principles of statistics and machine learning.
+
+
+ACCORDING TO MY ANALYSIS:
+
+1. Drama has the highest number of movies release followed by Comedy and Thriller.
+
+2. Inception is the most voted movie, Leonardo DiCaprio is the most voted actor and Christopher Nolan is the most voted director.
+
+3. AVATAR is highest profit earned movie and THE WARRIOR'S WAY is the lowest profit earned movie.
+
+4. Highest number of movies released in 2014, highest popularity in 2015 and highest profit earned in 2015 followed by 2012.
+
+5. The average mean runtime is: 103.89758781937479 by the time of analysis.
+
+6. ROBERT DE NIRO is the actor who acted highest number of movies and WOODY ALLEN is the director who directed highest number of movies.
+
+7. There is a relation between revenue and profit. As revenue increases, profit also increases.
