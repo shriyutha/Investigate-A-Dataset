@@ -52,6 +52,36 @@ DATA WRANGLING:
 Here we are going to import CSV file and will perform following operations:
 
 a. Checking head and tail of the data.
+
 b. Checking size, number of rows, columns.
+
 c. Checking null values, description and info.
+
+
+OBSERVATIONS:
+
+a. There are  major missing values in 'homepage', 'keywords', 'production_companies', 'taglines'.
+
+b. 'id', 'imdb_id', 'homepage', 'tagline', 'overview' are not relevent for this analysis, so we can drop this columns.
+
+c. 'cast', 'genres', 'director' has multivariables. Need to split this columns.
+
+d. Since there are missing values, needs to fill/drop.
+
+e. 'release_date' is not in proper format. Need to change to datetime format (YYYY/MM/DD).
+
+
+DATA CLEANING:
+
+STEPS:
+
+      a. Dropping not relevent columns.
+      
+      b. Dropping rows which have missing values.
+      
+      c. Repalcing '0' values with their mean values.
+      
+      d. Checking duplicate rows and droping it.
+      
+      e. Changing the 'release_date' format to datetime format.
 
